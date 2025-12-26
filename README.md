@@ -7,7 +7,7 @@ Chi sono
 - Editor video nel tempo libero (Adobe Premiere, After Effects, Photoshop).
 - Sto imparando Figma per il design e Flutter per applicazioni multipiattaforma.
 
-Strumento preferito
+Tecnologia preferita
 - Angular (per il momento)
 
 Competenze principali
