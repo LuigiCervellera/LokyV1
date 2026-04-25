@@ -3,7 +3,7 @@
 Benvenuto nel mio repository personale. Qui raccolgo progetti e risorse che rappresentano il mio lavoro come frontend developer e come editor video.
 
 Chi sono
-- Sviluppatore frontend con focus su Angular, TypeScript, Tailwind CSS e Material Design.
+- Sviluppatore frontend con focus su Angular, TypeScript, Tailwind CSS, React, Shadcn e Material Design.
 - Editor video nel tempo libero (Adobe Premiere, After Effects, Photoshop).
 - Sto imparando Figma per il design e Flutter per applicazioni multipiattaforma.
 
